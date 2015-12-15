@@ -13,7 +13,7 @@ We love contributors! The bundle is open source, if you'd like to contribute, fe
 ## License
 
 The RequestLab Vimeo Bundle is under the MIT license. For the full copyright and license information, please
-read the [LICENSE](https://github.com/RequestLab/RequestLabVimeoBundle/blob/master/LICENSE) file that was distributed
+read the [LICENSE](https://github.com/RequestLab/VimeoBundle/blob/master/LICENSE) file that was distributed
 with this source code.
 =======
 # VimeoBundle
