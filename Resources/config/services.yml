@@ -1,0 +1,6 @@
+parameters:
+    vimeo.service.class: RequestLab\VimeoBundle\Service\VimeoService
+
+services:
+    vimeo:
+        class: %vimeo.service.class%
