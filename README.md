@@ -1,5 +1,7 @@
 # README
 
+[![Build Status](https://travis-ci.org/RequestLab/VimeoBundle.svg?branch=master)](https://travis-ci.org/RequestLab/VimeoBundle)
+
 The RequestLab VimeoBundle provides a way to use the Vimeo API as Symfony 2 Bundle. 
 
 ## Documentation
