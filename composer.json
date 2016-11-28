@@ -4,7 +4,7 @@
   "keywords": [ "vimeo", "symfony", "server", "api" ],
   "type": "symfony-bundle",
   "require": {
-    "symfony/framework-bundle": "2.*",
+    "symfony/framework-bundle": "3.*",
     "vimeo/vimeo-api": "1.*"
   },
   "require-dev": {
